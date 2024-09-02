@@ -1,0 +1,10 @@
+Current depth resolution: 320x240
+Updated depth resolution: 640x480
+Intrinsic Parameters:
+fx: 570.3422090067767, fy: 570.3422180043582, cx: 320.0, cy: 240.0
+
+
+
+
+Shape of the depth image: (240, 320)
+New shape of the depth image: (240, 320)
